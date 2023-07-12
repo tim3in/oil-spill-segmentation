@@ -12,7 +12,7 @@ Inference on Image<br>
 from ultralytics import YOLO
 
 model = YOLO("best.pt")
-model.predict(source="oil_spill_drone.jpg", show=True, save=True)
+model.predict(source="oil_spill_drone.jpg", show=True, save=True, hide_labels=False, hide_conf=False, conf=0.5, save_txt=False, save_crop=False, line_thickness=2)
 ```
 
 Inference on Video<br>
@@ -20,5 +20,5 @@ Inference on Video<br>
 from ultralytics import YOLO
 
 model = YOLO("best.pt")
-model.predict(source="drone_footage_oil_spill_original.mp4", show=True, save=True)
+model.predict(source="drone_footage_oil_spill_original.mp4", show=True, save=True, hide_labels=False, hide_conf=False, conf=0.5, save_txt=False, save_crop=False, line_thickness=2)
 ```
