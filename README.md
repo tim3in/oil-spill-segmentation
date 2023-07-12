@@ -1,5 +1,5 @@
 # oil-spill-segmentation
-Classify and Segment Oil Spill in the Sea from Drone Footage
+Classify and Segment Oil Spill in the Sea from Drone Footage<br>
 <br>
 ![Oil Spill in Sea](https://github.com/tim3in/oil-spill-segmentation/blob/main/oil-spill-predection.jpg?raw=true)
 <br><br>
