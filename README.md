@@ -29,5 +29,5 @@ model.predict(source="drone_footage_oil_spill_original.mp4", show=True, save=Tru
 <br>
 Output Video:<br>
 <a href="https://www.youtube.com/watch?v=iAG6r1ckPvk" target="_blank">
- <img src="https://raw.githubusercontent.com/tim3in/oil-spill-segmentation/main/oil_spill_yt_thumbnail.png" alt="Watch the video" width="240" height="180" border="10" />
+ <img src="https://raw.githubusercontent.com/tim3in/oil-spill-segmentation/main/oil_spill_yt_thumbnail.png" alt="Watch the video" width="700" height="400"  />
 </a>
