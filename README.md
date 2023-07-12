@@ -4,7 +4,7 @@ Classify and Segment Oil Spill in the Sea from Drone Footage<br>
 ![Oil Spill in Sea](https://github.com/tim3in/oil-spill-segmentation/blob/main/oil-spill-predection.jpg?raw=true)
 <br><br>
 
-Step 1: Run ``` oil_spill_instance_segmentation.ipynb ``` to train custom model<br>
+Step 1: Run ``` oil_spill_instance_segmentation.ipynb ``` to train custom model on dataset from [RoboFlow](https://universe.roboflow.com/tim-4ijf0/oil-spill-segmentation/model/3)<br>
 Step 2: Inference using following code <br>
 <br>
 Inference on Image<br>
