@@ -28,4 +28,4 @@ model.predict(source="drone_footage_oil_spill_original.mp4", show=True, save=Tru
 ```
 <br>
 Output Video:<br>
-[![Oil Spill Prediction](https://github.com/tim3in/oil-spill-segmentation/blob/main/oil_spill_yt_thumbnail.png)](https://youtu.be/iAG6r1ckPvk)
+[![Oil Spill Prediction](https://github.com/tim3in/oil-spill-segmentation/blob/main/oil_spill_yt_thumbnail.png?raw=true)](https://youtu.be/iAG6r1ckPvk)
