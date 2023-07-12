@@ -15,7 +15,6 @@ model = YOLO("oil-spill-best.pt")
 model.predict(source="oil_spill_drone.jpg", show=True, save=True)
 ```
 
-<br>
 Inference on Video<br>
 ```python
 from ultralytics import YOLO
