@@ -16,6 +16,7 @@ model.predict(source="oil_spill_drone.jpg", show=True, save=True, hide_labels=Fa
 ```
 <br>
 Output Image:<br>
+
 ![Oil Spill in Sea](https://github.com/tim3in/oil-spill-segmentation/blob/main/oil-spill-predection.jpg?raw=true)
 
 Inference on Video<br>
@@ -27,6 +28,4 @@ model.predict(source="drone_footage_oil_spill_original.mp4", show=True, save=Tru
 ```
 <br>
 Output Video:<br>
-[<a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
- <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
-</a>](https://www.youtube.com/embed/iAG6r1ckPvk)
+[Oil Spill Prediction](https://www.youtube.com/embed/iAG6r1ckPvk)
